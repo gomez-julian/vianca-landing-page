@@ -59,7 +59,7 @@
                 </ul>
             </li>
             <li>
-                <a v-ripple class="flex px-0 lg:px-5 py-3 hover:text-blue-600 font-medium transition-colors transition-duration-150 p-ripple">
+                <a href="#features" v-ripple class="flex px-0 lg:px-5 py-3 hover:text-blue-600 font-medium transition-colors transition-duration-150 p-ripple">
                     <span>Soluciones</span>
                 </a>
             </li>
@@ -88,5 +88,7 @@ import Main3dButton from './Main3dButton.vue';
 </script>
 
 <style scoped>
-
+a{
+    text-decoration: none;
+}
 </style>
