@@ -1,5 +1,5 @@
 <template>
-  <div class="surface-section px-4 py-8 md:px-6 lg:px-8 overflow-hidden" id="features">
+  <div class="surface-section px-4 py-4 mt-3 md:px-6 lg:px-8 overflow-hidden" id="features">
     <div class="font-bold text-900 text-3xl mb-3 text-center">
       Explora los beneficios
     </div>

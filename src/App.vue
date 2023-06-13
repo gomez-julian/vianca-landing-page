@@ -2,6 +2,7 @@
 import MainFeatures from './components/MainFeatures.vue';
 import MainHero from './components/MainHero.vue';
 import MainNavbar from './components/MainNavbar.vue';
+import MainPresentation from './components/MainPresentation.vue';
 
 
 </script>
@@ -16,6 +17,7 @@ import MainNavbar from './components/MainNavbar.vue';
 <MainNavbar/>
 <MainHero/>
 <MainFeatures/>
+<MainPresentation/>
 </template>
 
 <style>
@@ -23,8 +25,8 @@ body {
   font-family: var(--font-family);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding-top: 0;
-  margin-top: 0;
+  padding: 0;
+  margin: 0;
   width: 100%;
 }
 html {

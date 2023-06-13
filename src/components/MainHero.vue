@@ -1,6 +1,12 @@
 <template>
 <div class="relative p-8 overflow-hidden">
-    <img src="/images/hero-6-vector-square.svg" alt="Image" class="absolute top-0 left-0 w-auto h-full block lg:w-full">
+    <!-- <img src="/images/hero-6-vector-full.svg" alt="Image" class="absolute top-0 left-0 w-auto h-full block lg:w-full"> -->
+
+    <picture>
+  <source media="(min-width: 1600px)" srcset="/images/hero-6-vector-large.svg" class="absolute top-0 left-0 w-auto h-full block">
+  <source media="(min-width: 1330px) and (max-width: 1599px)" srcset="/images/hero-6-vector-mid.svg" class="absolute top-0 left-0 w-auto h-full block ">
+  <img src="/images/hero-6-vector-square.svg" alt="Imagen" class="absolute top-0 left-0 w-auto h-full block">
+</picture>
 
     <div class="text-center my-6 relative">
         <div class="text-6xl text-white font-bold mb-1">Únete a una nueva</div>
