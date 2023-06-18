@@ -34,7 +34,7 @@
                             <span>Clientes</span>
                         </a>
                     </li>
-                    <li class="relative">
+                    <!-- <li class="relative">
                         <a v-ripple class="flex p-3 align-items-center hover:surface-50 transition-colors transition-duration-150 p-ripple"
                             v-styleclass="{ selector: '@next', enterClass: 'hidden', enterActiveClass: 'scalein', leaveToClass: 'hidden', leaveActiveClass: 'fadeout', hideOnOutsideClick: true }">
                             <i class="pi pi-question-circle text-2xl mr-2 text-blue-600"></i>
@@ -55,7 +55,7 @@
                                 </a>
                             </li>
                         </ul>
-                    </li>
+                    </li> -->
                 </ul>
             </li>
             <li>
@@ -64,13 +64,13 @@
                 </a>
             </li>
             <li>
-                <a v-ripple class="flex px-0 lg:px-5 py-3 hover:text-blue-600 font-medium transition-colors transition-duration-150 p-ripple">
+                <a href="#products" v-ripple class="flex px-0 lg:px-5 py-3 hover:text-blue-600 font-medium transition-colors transition-duration-150 p-ripple">
                     <span>Productos</span>
                 </a>
             </li>
             <li>
-                <a v-ripple class="flex px-0 lg:px-5 py-3 hover:text-blue-600 font-medium transition-colors transition-duration-150 p-ripple">
-                    <span>Clientes</span>
+                <a href="#contact" v-ripple class="flex px-0 lg:px-5 py-3 hover:text-blue-600 font-medium transition-colors transition-duration-150 p-ripple">
+                    <span>Contacto</span>
                 </a>
             </li>
         </ul>

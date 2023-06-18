@@ -1,5 +1,5 @@
 <template>
-<span><a href="#"></a></span>
+<span><a href="#contact"></a></span>
 </template>
 
 <script setup lang="ts">

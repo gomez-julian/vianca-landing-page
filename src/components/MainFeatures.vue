@@ -4,7 +4,7 @@
       Explora los beneficios
     </div>
     <div class="text-700 text-center mb-5 line-height-3">
-      Ofrecemos gran variedad de soluciones que puedes implementar en tu empresa dependiendo de tus necesidades.
+      Descubre nuestra amplia gama de soluciones adaptadas a las necesidades específicas de tu empresa.
     </div>
     <div class="flex lg:justify-content-center mb-5">
       <div class="py-3 pr-8 pl-3 w-30rem hidden lg:block">
@@ -22,8 +22,7 @@
             para darte a conocer y ofrecer tus productos y servicios de forma llamativa.
           </div>
           <div class="line-height-3">
-            <span class="text-900 font-medium">Aplicaciones web</span> para automatizar y solucionar problemas
-            operativos en tu empresa. Siempre disponibles desde cualquier parte.
+            <span class="text-900 font-medium">Aplicaciones web</span> diseñadas para automatizar procesos y resolver problemas operativos. Accesibles desde cualquier ubicación, las 24 horas del día.
           </div>
         </div>
         <img
